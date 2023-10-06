@@ -6,5 +6,7 @@ public class Main {
         System.out.println(NE.toString());
         Book java=new Book("java","java.com");
         System.out.println(java.toString());
+        Result result=new Result("se 306",12.8,15.5,40,3.0,"A-");
+        System.out.println(result.toString());
     }
 }
