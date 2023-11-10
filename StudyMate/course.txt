@@ -1,2 +1,0 @@
-combinatorial optimization,cse 301,sumon ahmed
-numerical analysis,math 304,zuel 
