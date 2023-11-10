@@ -1,0 +1,5 @@
+combinatorial opmization,cse 301,sumon sir
+Numerical Analysis,Math 304,Juel sir
+spl,se 305,Emon sir
+oop 2,se 306,Rifat sir
+Networking,cse 311,Sharif sir
